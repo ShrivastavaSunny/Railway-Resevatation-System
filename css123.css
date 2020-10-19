@@ -1,0 +1,88 @@
+h1{color: white;
+    margin-left:0%;
+}
+
+
+img{
+    width: 260px;
+    height: 250px;
+    border-radius: 50px;
+
+}
+#sss,#yo
+{
+width:1350px;
+height:500px;
+}
+#down{
+    background-color: black;
+    padding: 24px;
+}
+#header {
+    margin: 0;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+.btn:hover {
+    color: #FFFFFF;
+    background-color: #A52A2A;
+    border-color: #FF8COO;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 18px 10px;
+    text-transform: uppercase;
+    border: 2px solid;}
+a {
+      text-decoration:none;
+   }
+#reviews_head
+{
+width:40px;
+height:20;
+}
+
+body{
+margin:0;
+padding:0;
+	background-image:url("pic3.jpg");
+background-size:cover;
+font-family:sans-serif;
+}
+center{
+	font-size: 70px;
+  font-family:courier;
+  color:solid-black; 
+}
+.navi{
+  font-family:arial;
+font-size:18px;
+float:right;
+font-color:red;
+}
+li{
+  list-style-type:none;
+  float:left;
+  margin-right:10px;
+  font-color:red;
+
+}
+
+
+}
+#type>h1{
+  margin-left:5px;
+  font-family:courier;
+  font-size:40px;
+  font-weight:lighter;
+  color:red;
+  letter-spacing: 1px;
+  width:25ch;
+}
+#type>h2{
+  margin-left:400px;
+  font-family:arial;
+}
